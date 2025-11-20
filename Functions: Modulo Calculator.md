@@ -1,4 +1,4 @@
-# Functions in Python: Modulo Calculator
+# 2B Functions in Python: Modulo Calculator
 ## Developed by : AKASH G
 ## Register No. : 212224100004
 ## 🎯 Aim
