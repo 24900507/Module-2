@@ -1,4 +1,4 @@
-## Loops in Python: Palindrome Number Checker
+## 2E Loops in Python: Palindrome Number Checker
 ## Developed by : AKASH G
 ## Register No. : 212224100004
 ## 🎯 Aim
