@@ -1,4 +1,4 @@
-# Lambda Function in Python: Addition of Two Numbers
+# 2C Lambda Function in Python: Addition of Two Numbers
 ## Developed by : AKASH G
 ## Register No. : 212224100004
 ## 🎯 Aim
